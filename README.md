@@ -11,7 +11,7 @@ Fetch data at discrete time intervals
 - Sports, e.g., Mavericks or Stars (because Dallas, ...)
 - Weather, esp. for updates about cold NH climate
 - Finance, e.g., deals on food (broke college student life)
-- Consider using [international statistics](inqstats.inqubu.com) for data
+- Consider using [international statistics](https://inqstats.inqubu.com) for data
   analysis being pulled from an API client (response form: JSON)
 
 Schedule
