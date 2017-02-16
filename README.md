@@ -31,3 +31,24 @@ Personal Finances
 	- Food
 	- Transportation
 
+Data Analysis
+
+- Make an exploratory project that incorporates dynamic variables and
+  visualization to analyze behavior of data in an interactive setting
+	- This stems off of iPython's robust toolkit and [a video](www.vimeo.com/79832657) 
+	(begins around 32:00 mark) detailing the attractive features available
+
+### Unfinished Projects
+---
+Some unfinished projects that may not be posted, but 'there was an attempt.'
+
+**Personalized browser dashboard**:
+
+- *Project*:
+	- Interactive, bootstrapped site personalized to my interests
+	- Would contain notes, schedule, scores, etc.
+- *Problems*:
+	- Requires intensive web development language knowledge (duh) -- PHP,
+	  JavaScript, HTML, et al.
+
+
